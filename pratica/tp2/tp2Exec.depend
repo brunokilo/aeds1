@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1745027447 source:c:\users\bruno\desktop\testesstringsc\tp2exec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1745280608 source:c:\users\bruno\desktop\pratica\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
